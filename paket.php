@@ -11,7 +11,7 @@ $paket = new Paket();
             <form action = "../controller/proses.paket.php?aksi=simpan" method="POST">
                 <div class="card">
                     <div class="card-header">
-                        Input Paket
+                        Input kan Paket
                     </div>
                     <div class="card-body">
                         <form action="" method="POST"></form>
