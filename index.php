@@ -14,7 +14,7 @@
 }
     body{overflow: hidden;animation-name: muncul;animation-duration: 2s}
     .both{clear: both;}
-    .loginpage{position: fixed;background:url("pcr.jpeg");height: 100%;width: 100%;background-size: 60%;}
+    .loginpage{position: fixed;background:url("Zahwa.jpeg");height: 100%;width: 100%;background-size: 60%;}
       .padding{padding:80px 25px;}
       .login{float: left;width: 400px;background:#fff;height: 100%;}
       .login input,.login select,.login button{width: 100%;box-sizing: border-box;margin-bottom: 20px;border: 0px;padding: 10px;border-bottom: 1px solid #e4e7ea;outline: 0;color: #565656;font-size: 14px;}
