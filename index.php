@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Putri Laundry</title>
+  <title>Laundrykuuu</title>
   <style type="text/css">
   @font-face{
   font-family: titillium;
